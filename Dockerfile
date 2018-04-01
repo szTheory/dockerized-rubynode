@@ -1,4 +1,4 @@
-FROM jdubz/ruby:2.5.0
+FROM sztheory/ruby:latest
 
 ENV NODE_VERSION 8.9.4
 
