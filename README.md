@@ -1,1 +1,1 @@
-Dockerized Ruby + Node on Alpine
+Dockerized Ruby + Node on Alpine. Useful for Rails apps.
