@@ -1,6 +1,6 @@
-FROM sztheory/ruby:latest
+FROM sztheory/ruby:2.5.1
 
-ENV NODE_VERSION 8.9.4
+ENV NODE_VERSION 8.11.0
 
 RUN apk --update add --virtual .build-deps \
     bash \
